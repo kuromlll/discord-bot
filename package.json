@@ -1,0 +1,15 @@
+{
+  "name": "kurobot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+
+  "author": "KURO",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  },
+  "scripts" : {
+    "start": "node main.js"
+  }
+}
