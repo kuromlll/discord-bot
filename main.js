@@ -1,8 +1,6 @@
 const { ActivityType } = require("discord.js")
 const Discord = require("discord.js")
 
-const config = require("./config")
-
 const bot = new Discord.Client({intents: 3276799})
 bot.on("ready",() => {
 
